@@ -4,7 +4,7 @@
 		&emsp;&emsp;**1.2 Dokumen-dokumen dalam proyek**<br>
 		&emsp;&emsp;**1.3 Evolusi SPMP**<br>
 		&emsp;&emsp;**1.4 Material acuan**<br>
-		&emsp;&emsp;**1.5 Definisi dan akronim**<br>
+		&emsp;&emsp;**1.5 Definisi dan akronim**<br><br>
 	**2.Organisasi Proyek**<br>
 		&emsp;&emsp;**2.1 Model proses**<br>
 		&emsp;&emsp;**2.2 Struktur Organisai**<br>
@@ -17,11 +17,11 @@
 	&emsp;&emsp;**3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**<br>
 	&emsp;&emsp;**3.3 Manajemen resiko**<br>
 	&emsp;&emsp;**3.4 Mekanisme monitoring dan kontroling**<br>
-	&emsp;&emsp;**3.5 Perencanaan staf**<br>
+	&emsp;&emsp;**3.5 Perencanaan staf**<br><br>
 **4.Proses teknis**<br>
 	&emsp;&emsp;**4.1 Metode, tool, dan teknik**<br>
 	&emsp;&emsp;**4.2 Dokumentasi perangkat lunak**<br>
-	&emsp;&emsp;**4.3 Fungsi-fungsi pendukung proyek**<br>
+	&emsp;&emsp;**4.3 Fungsi-fungsi pendukung proyek**<br><br>
 **5.Paket pekerjaan,jadwal,dan budget**<br>
 	&emsp;&emsp;**5.1 Paket Pekerjaan**<br>
 	&emsp;&emsp;**5.2 Ketergantungan/Keterkaitan**<br>
