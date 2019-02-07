@@ -1,13 +1,13 @@
-**3.Proses Manajerial** <hr>
-	**3.1 Tujuan dan Prioritas**<hr>
-	**3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**<hr>
-	**3.3 Manajemen resiko**<hr>
-	**3.4	Mekanisme monitoring dan kontroling**<hr>
-	**3.5	Perencanaan staf**<hr>
-**4.Proses teknis**<hr>
-	**4.1 Metode, tool, dan teknik**<hr>
-	**4.2 Dokumentasi perangkat lunak**<hr>
-	**4.3 Fungsi-fungsi pendukung proyek**<hr>
+**3.Proses Manajerial** <br>
+	**3.1 Tujuan dan Prioritas**<br>
+	**3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**<br>
+	**3.3 Manajemen resiko**<br>
+	**3.4	Mekanisme monitoring dan kontroling**<br>
+	**3.5	Perencanaan staf**<br>
+**4.Proses teknis**<br>
+	**4.1 Metode, tool, dan teknik**<br>
+	**4.2 Dokumentasi perangkat lunak**<br>
+	**4.3 Fungsi-fungsi pendukung proyek**<br>
 <h4>
 	<ol type="5">
 		<li>Paket pekerjaan,jadwal,dan budget</li>
