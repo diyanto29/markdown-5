@@ -17,7 +17,7 @@
 </ol>
 
 **3.Proses Manajerial** <br>
-	**3.1 Tujuan dan Prioritas**<br>
+	&emsp;**3.1 Tujuan dan Prioritas**<br>
 	**3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**<br>
 	**3.3 Manajemen resiko**<br>
 	**3.4	Mekanisme monitoring dan kontroling**<br>
