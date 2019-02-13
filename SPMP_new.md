@@ -25,3 +25,26 @@ List kebutuhan aplikasi menurut bapak:
 	Materi meliputi pengertian E-Commerce, frame Laravel, msql dan photosop<br>
 **1.5 Definisi dan akronim (singkatan)**<br>
 Daftar singkatan ada singkatan dari MSQL<br>
+
+2.  **Organisasi Proyek**<br>
+				**2.1 Model Proses**<br>
+				Moder proyek dilakukan secara waterfall<br>
+				**2.2 Struktur Organisasi**<br>
+				Terdapat pembagian tugas dimana meliputi project manager, analisis dan programmer<br>
+				**2.3 batasan dan antarmuka organisasi**<br>
+				Batasannya dapat dilakukakn dengan tanggung jawab tugasnya masing-masing<br>
+**2.4 Lingkup tanggung jawab**<br>
+Project manager  : bertanggung jawab dengan proyek
+Anallisi  : menganalisis proyek
+Programmer  : menjadi programmer dalam project
+3.  **Proses Manajerial**<br>
+	**3.1 Tujuan dan prioritas manajemen**<br>
+	Prioritas lebih ditekankan pada pengerjaaan alur system aplikasi<br>
+	**3.2 Asumsi-asumsi, ketergantungan/keterkaitan, dan batasan-batasan**<br>
+	Aplikasi bergantungan pada mitra yang di ajak bekerja sama<br>
+**3.3 Manajemen resiko**<br>
+Resiko dapat dimanagement dengan melakukan evaluasi setiap kali ada kekurangan<br>
+**3.4 Mekanisme monitoring dan kontroling**<br>
+Monitoring dapat dilakukan selama sebulan seklai<br>
+**3.5 Perencanaan staf**<br>
+Belum terfikirkan<br>
