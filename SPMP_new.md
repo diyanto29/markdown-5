@@ -48,3 +48,20 @@ Resiko dapat dimanagement dengan melakukan evaluasi setiap kali ada kekurangan<b
 Monitoring dapat dilakukan selama sebulan seklai<br>
 **3.5 Perencanaan staf**<br>
 Belum terfikirkan<br>
+4.  **Proses Teknis**<br>
+	**4.1 Metode, tool dan Teknik**<br>
+	Aplikasi yang dibuat dengan menggunakan metode waterfall dengan tool laptop<br>
+	**4.2 Dokumentasi perangkat lunak**<br>
+	Dokumentasi belum dilakukan<br>
+	**4.3 Fungsi-fungsi pendukung proyek**<br>
+5.  **Paket Pekerjaan, Jadwal, dan Budget**<br>
+**5.1 Paket pekerjaan**<br>
+Paket pekerjaan sudah di lakukan dengan pembagian tugas<br>
+**5.2 Ketergantungan atau Keterkaitan**<br>
+Semua anggota dalam tim selalu berkaitan dalam mengerjakan proyek<br>
+**5.3 Kebutuhan-Kebutuhan Sumber**<br>
+Kebutuhan akan sumber daya manusia<br>
+**5.4 Alokasi budget dan sumber daya**<br>
+Belum ada badget yang difikirkan<br>
+**5.5 Jadwal**<br>
+Belum terdapat jadwal
