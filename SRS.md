@@ -14,9 +14,9 @@
 <b>2. Gambaran Umum</b><br>
 &emsp;2.1 Perspektif produk<br>
 &emsp;&emsp;2.1.1 Antarmuka sistem<br>
-&emsp;&emsp;&emsp;&emsp;Bagian interface sistem dimana pada bagian ini tertera beberapa bagan yang menggambarkan interface dan alur sistem.<br>
+&emsp;&emsp;&emsp;&emsp;Bagian interface sistem dimana pada bagian ini tertera beberapa bagan yang menggambarkan interface dan alur &emsp;&emsp;&emsp;&emsp;sistem.<br>
 &emsp;&emsp;2.1.2 Antarmuka pengguna<br>
-&emsp;&emsp;&emsp;&emsp;Bagian interfaces sistem yang menyuguhkan tampilan berserta fungsi-fungsi modul yang bisa digunakan oleh user dalam pengoperasian.<br>
+&emsp;&emsp;&emsp;&emsp;Bagian interfaces sistem yang menyuguhkan tampilan berserta fungsi-fungsi modul yang bisa digunakan oleh user &emsp;&emsp;&emsp;&emsp;dalam pengoperasian.<br>
 &emsp;&emsp;2.1.3 Antarmuka perangkat keras <br>
 &emsp;&emsp;&emsp;&emsp;Antarmuka ini menampilkan beberapa kegunaan device atau perangkat keras yang digunakan.<br>
 &emsp;&emsp;2.1.4 Antarmuka perangkat lunak<br>
