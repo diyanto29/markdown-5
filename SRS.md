@@ -30,13 +30,13 @@
 &emsp;&emsp;2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi<br>
 &emsp;&emsp;&emsp;&emsp;Beberapa kebutuhan dan resource yang tertera dalam pengadaptasian.<br>
 &emsp;2.2 Fungsi-fungsi produk<br>
-&emsp;&emsp;&emsp;&emsp;Fungsi-fungsi dari aplikasi yang akan dibuat
+&emsp;&emsp;&emsp;&emsp;Fungsi-fungsi dari aplikasi yang akan dibuat<br>
 &emsp;2.3 Karakteristik pengguna<br>
-&emsp;&emsp;&emsp;&emsp;Karakteristik dari pengguna aplikasi
+&emsp;&emsp;&emsp;&emsp;Karakteristik dari pengguna aplikasi<br>
 &emsp;2.4 Batasan-batasan<br> 
-&emsp;&emsp;&emsp;&emsp; Batasan dari pengguanaan aplikasi
+&emsp;&emsp;&emsp;&emsp; Batasan dari pengguanaan aplikasi<br>
 &emsp;2.5 Asumsi-asumsi dan ketergantungan/keterkaitan<br>
-&emsp;&emsp;&emsp;&emsp;Asumsi-asumsi dan Ketergantungan atau keterkaitan
+&emsp;&emsp;&emsp;&emsp;Asumsi-asumsi dan Ketergantungan atau keterkaitan<br>
 &emsp;2.6 Kebutuhan-kebutuhan penyeimbang<br>
-&emsp;&emsp;&emsp;&emsp;Kebutuhan-kebutuhan penyeimbang
+&emsp;&emsp;&emsp;&emsp;Kebutuhan-kebutuhan penyeimbang<br>
 
