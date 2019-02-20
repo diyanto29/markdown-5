@@ -11,5 +11,32 @@
 &emsp;&emsp;1.3.3	Sistem ini dibuat dengan menggunakann Android Studio.<br>
 &emsp;<b>1.3 Definisi, Akronim, Singkatan</b><br>
 &emsp;&emsp;Aplikasi Penjualan Olahan Mangga Indramayu Berbasis Mobile (MANGOLINESHP) adalah salah satu jenis aplikasi perangkat lunak yang dapat digunakan untuk membantu proses penjualan olahan secara online. Selama ini pemasaran olahan mangga khas Indramayu dipasarkan secara konvensional yaitu dijual di toko sekitar Indramayu saja.<br>
-
+<b>2. Gambaran Umum</b><br>
+&emsp;2.1 Perspektif produk<br>
+&emsp;&emsp;2.1.1 Antarmuka sistem<br>
+&emsp;&emsp;&emsp;&emsp;Bagian interface sistem dimana pada bagian ini tertera beberapa bagan yang menggambarkan interface dan alur sistem.<br>
+&emsp;&emsp;2.1.2 Antarmuka pengguna<br>
+&emsp;&emsp;&emsp;&emsp;Bagian interfaces sistem yang menyuguhkan tampilan berserta fungsi-fungsi modul yang bisa digunakan oleh user dalam pengoperasian.<br>
+&emsp;&emsp;2.1.3 Antarmuka perangkat keras <br>
+&emsp;&emsp;&emsp;&emsp;Antarmuka ini menampilkan beberapa kegunaan device atau perangkat keras yang digunakan.<br>
+&emsp;&emsp;2.1.4 Antarmuka perangkat lunak<br>
+&emsp;&emsp;&emsp;&emsp;Antarmuka ini menampilkan beberapa kegunaan device atau perangkat lunak yang digunakan.<br>
+&emsp;&emsp;2.1.5 Antarmuka komunikasi<br>
+&emsp;&emsp;&emsp;&emsp;Bagian ini menjelaskan bagaimana sistem berkomunikasi dengan perangkat yang ada.<br>
+&emsp;&emsp;2.1.6 Batasan-batasan memori<br>
+&emsp;&emsp;&emsp;&emsp;Bahan ini tertera batasan batasan memori dari sistem yang telah dirancang.<br>
+&emsp;&emsp;2.1.7 Operasi-operasi<br>
+&emsp;&emsp;&emsp;&emsp;Terdapat beberapa operasi-operasi yang ada pada bagian ini yang terintegrasi pada sistem.<br>
+&emsp;&emsp;2.1.8 Kebutuhan-kebutuhan dalam tahapan adaptasi<br>
+&emsp;&emsp;&emsp;&emsp;Beberapa kebutuhan dan resource yang tertera dalam pengadaptasian.<br>
+&emsp;2.2 Fungsi-fungsi produk<br>
+&emsp;&emsp;&emsp;&emsp;Fungsi-fungsi dari aplikasi yang akan dibuat
+&emsp;2.3 Karakteristik pengguna<br>
+&emsp;&emsp;&emsp;&emsp;Karakteristik dari pengguna aplikasi
+&emsp;2.4 Batasan-batasan<br> 
+&emsp;&emsp;&emsp;&emsp; Batasan dari pengguanaan aplikasi
+&emsp;2.5 Asumsi-asumsi dan ketergantungan/keterkaitan<br>
+&emsp;&emsp;&emsp;&emsp;Asumsi-asumsi dan Ketergantungan atau keterkaitan
+&emsp;2.6 Kebutuhan-kebutuhan penyeimbang<br>
+&emsp;&emsp;&emsp;&emsp;Kebutuhan-kebutuhan penyeimbang
 
