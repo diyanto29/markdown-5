@@ -9,7 +9,7 @@ fungsional.<br>
 &emsp;<b>1.2 Lingkup</b><br>
 &emsp;Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi 
 management proyek RPL berbasis dekstop, ruang lingkup system ini mencangkup 
-informasi mengenai antarmuka dari system tersebut. 
+informasi mengenai antarmuka dari system tersebut.<br>
 &emsp;<b>1.3 Definisi, Akronim, Singkatan</b><br>
 <b>2. Referensi</b><br>
 &emsp;a. Modul KULIAH RPL 7 DOKUMEN SDD<br>
