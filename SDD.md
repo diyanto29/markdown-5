@@ -1,11 +1,11 @@
 <h1>***Software Desaign Document (SDD)***</h1>
 <b>1. PENDAHULUAN</b><br>
 &emsp;<b>1.1 Tujuan</b><br>
-&emsp;Tujuan dalam membuat dokumen SDD (Software Design Description) ini adalah 
+&emsp;&emsp;Tujuan dalam membuat dokumen SDD (Software Design Description) ini adalah 
 untuk menjelaskan  langkah-langkah desain dan proses-proses dalam pembuatan 
 sistem aplikasi yang akan di terapkan pada aplikasi simulasi management proyek 
 RPL dan juga memberi definisi kebutuhan untuk sistem spesifikasi kebutuhan 
-fungsional. 
+fungsional.<br>
 &emsp;<b>1.2 Lingkup</b><br>
 &emsp;Ruang lingkup SDD ini adalah penjelasan mengenai aplikasi simulasi 
 management proyek RPL berbasis dekstop, ruang lingkup system ini mencangkup 
