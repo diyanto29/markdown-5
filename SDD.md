@@ -23,9 +23,14 @@ informasi mengenai antarmuka dari system tersebut.<br>
 &emsp;<b>4.2 Ketergantungan interproses</b><br>
 &emsp;<b>4.3 Ketergantungan data</b><br>
 <b>5. Deskripsi Antarmuka</b><br>
-Antarmuka (Interface) merupakan mekanisme komunikasi antara pengguna (user) dengan sistem. Antarmuka (Interface) dapat menerima informasi dari pengguna (user) dan memberikan informasi kepada pengguna (user) untuk membantu mengarahkan alur penelusuran masalah sampai ditemukan suatu solusi.
+&emsp;Antarmuka (Interface) merupakan mekanisme komunikasi antara pengguna (user) dengan sistem. Antarmuka (Interface) dapat menerima informasi dari pengguna (user) dan memberikan informasi kepada pengguna (user) untuk membantu mengarahkan alur penelusuran masalah sampai ditemukan suatu solusi.<br>
 &emsp;<b>5.1 Antarmuka Modul</b><br>
+&emsp;Antarmuka modul adalah sebuah antarmuka yang menampilkan modul-modul yang akan dibuat&emsp;<br>
 &emsp;<b>5.2 Antarmuka Proses</b><br>
+&emsp;Antarmuka proses adalah sebuah antarmuka yang menampilkan proses-proses yang akan dibuat&emsp;<br>
 <b>6. Desain Rinci</b><br>
+&emsp;Desain sistem yang terinci, yaitu pembuatan rancang bangun yang jelas dan lengkap untuk nantinya digunakan untuk pembuatan program komputernya.&emsp;<br>
 &emsp;<b>6.1 Desain Rinci Modul</b><br>
+&emsp;Desain Rinci modul adalah sebuah desain terperinci dari sebuah modul&emsp;<br>
 &emsp;<b>6.2 Desain Rinci Data</b><br>
+&emsp;Desain Rinci modul adalah sebuah desain terperinci dari sebuah data&emsp;<br>
